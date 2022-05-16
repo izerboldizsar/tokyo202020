@@ -20,6 +20,12 @@ main h2{
     font-variant: small-caps;
 }
 
+
+
 #kajak4 li{
     line-height: 3rem;
+    margin-right: 40pt;
+    list-style-image: url(./images/arany.png);
+    float: left;
+    
 }
