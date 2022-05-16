@@ -27,5 +27,11 @@ main h2{
     margin-right: 40pt;
     list-style-image: url(./images/arany.png);
     float: left;
-    
+
+}
+
+p{
+text-align: justify;
+
+
 }
